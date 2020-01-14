@@ -1,1 +1,1 @@
-# -CIS-106-Daniel-Georgiev
+Hi My name is daniel Georgiev. I chose javascript because one of the games that i have played since i was a young kid was minecraft. Im taking this class to get an associates degree and work in IT. I will use this knowledge to further my understanding of videogames and also put my foot in the door with the world of coding.
